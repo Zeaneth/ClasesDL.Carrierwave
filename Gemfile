@@ -7,6 +7,7 @@ ruby '2.5.1'
 # Carrierwave for image file uploading
 gem 'carrierwave'
 gem 'rails', '~> 5.2.2'
+gem 'mini_magick'
 # Use postgresql as the database for Active Record
 gem 'pg', '>= 0.18', '< 2.0'
 # Use Puma as the app server
