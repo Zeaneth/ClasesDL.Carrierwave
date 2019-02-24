@@ -8,6 +8,8 @@ ruby '2.5.1'
 gem 'carrierwave'
 gem 'rails', '~> 5.2.2'
 gem 'mini_magick'
+gem 'fog-aws'
+gem 'figaro'
 # Use postgresql as the database for Active Record
 gem 'pg', '>= 0.18', '< 2.0'
 # Use Puma as the app server
